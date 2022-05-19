@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+
+    <item android:title="Главное"
+        android:icon="@drawable/vector4"
+        android:id="@+id/home"/>
+    <item android:title="Подборка"
+        android:icon="@drawable/vector3"
+        android:id="@+id/setting"/>
+    <item android:title="Коллекция"
+        android:icon="@drawable/vector2"
+        android:id="@+id/stars"/>
+    <item android:title="Профиль"
+    android:icon="@drawable/vector"
+    android:id="@+id/profile"/>
+
+</menu>
